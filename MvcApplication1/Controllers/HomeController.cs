@@ -8,7 +8,7 @@ namespace MvcApplication1.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+       // public ActionResult Index()
         {
             ViewBag.Message = "jean well done.0122";
 
